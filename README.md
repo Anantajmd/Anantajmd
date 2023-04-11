@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ananta Jamdhade.
-- 👀 I’m interested in embedded programming and Machine learning.
+- 👀 I’m interested in  Machine learning.
 - 🌱 I’m currently learning Python, Tensorflow and Linux programing.
 - 💞️ I’m looking to collaborate on Machine learning.
 - 📫 How to reach me, You can drop me a mail on anantajamdhade18@gmail.com
